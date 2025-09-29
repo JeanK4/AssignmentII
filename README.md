@@ -9,7 +9,7 @@ Este proyecto implementa algoritmos clásicos de planificación de CPU en C++:
 
 ---
 
-## 📂 Contenido del repositorio
+## Contenido del repositorio
 
 - Archivos fuente en C++ (`.cpp` y `.h`)
 - Archivos de entrada:
@@ -21,7 +21,7 @@ Este proyecto implementa algoritmos clásicos de planificación de CPU en C++:
 
 ---
 
-## ⚙️ Construcción de la imagen
+## Construcción de la imagen
 
 Para compilar el proyecto y crear la imagen de Docker:
 
